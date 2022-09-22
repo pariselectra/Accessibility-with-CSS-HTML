@@ -7,7 +7,7 @@ The goal of this challenge was to make a website more accessible. We were given 
 
 This project helped build a necessary understanding of accessibility requirements. Accessibility requirements not only help people with visual impairments, but they also protect companies from being sued and adhere to government compliances. 
 
-As a final touch, I added detailed comments to easily breakdown the code and make it a little more "accessible" for future developers and collaborators. Cleaning up the title code, putting headers in sequential order, and labeling the CSS/HTML code via comments provide clarity for a viewing audience.
+As a final touch, I added detailed comments to easily breakdown the code and make it a little more "accessible" for future developers and collaborators. Cleaning up the title code, putting both CSS/HTML code elements in sequential order, and labeling the CSS/HTML code via comments provide clarity for a viewing audience.
 
 ## Usage
 ![link to website layout](images/WebsiteExample.png)
