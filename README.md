@@ -1,4 +1,4 @@
-# Challenge-1
+# Accessibility-with-CSS-HTML
 
 ## Description
 This was the first challenge I completed in a coding bootcamp I took through the University of Texas at Austin in conjunction with Trilogy Education. The goal of this challenge was to showcase the introductory skills we had learned the first week of class: CSS, HTML, and Git. Although this project is relatively basic, it serves as a baseline for the projects I went on to complete throughout the duration of the course.
